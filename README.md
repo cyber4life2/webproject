@@ -1,1 +1,1 @@
-this is assignment test
+this is assignment test, not a real application
